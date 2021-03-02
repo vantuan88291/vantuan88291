@@ -32,6 +32,7 @@
   ### Libraries and packages
   
  - [Ignite](https://github.com/infinitered/ignite) contributor: https://github.com/infinitered/ignite/commits?author=vantuan88291
+ - https://pub.dev/packages/flutter_dropdown_alert - Dropdown alert for flutter.
  - https://github.com/vantuan88291/CustomCLI - Custom CLI for react native.
  - https://github.com/vantuan88291/DetectTextFromImage - `Android` implementation based on `Google vision` for detect text from photos and camera
  - https://github.com/vantuan88291/AsyncTaskEasy - Wrap rxjava to make and asynctask, make background job easier.
