@@ -35,7 +35,7 @@
  - https://pub.dev/packages/flutter_dropdown_alert - Dropdown alert for flutter.
  - https://github.com/vantuan88291/CustomCLI - Custom CLI for react native.
  - https://github.com/vantuan88291/DetectTextFromImage - `Android` implementation based on `Google vision` for detect text from photos and camera
- - https://github.com/vantuan88291/AsyncTaskEasy - Wrap rxjava to make and asynctask, make background job easier.
+ - https://github.com/vantuan88291/react-native-ota-hot-update - Hot update for react native using git control
 
 ### Github Stats
 
